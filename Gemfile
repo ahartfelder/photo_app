@@ -33,6 +33,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'net-smtp'
+gem 'stripe'
 
 
 group :development, :test do
